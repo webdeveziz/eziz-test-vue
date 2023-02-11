@@ -1,25 +1,8 @@
-# test-vue
-# My first app on VUE JS
-
-## Project setup
-```
+test-vue
+### My first app on VUE JS
+### Project setup
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://github.com/webdeveziz/eziz-test-vue/blob/main/src/assets/scr2.jpg
+[![Screenshots](https://github.com/webdeveziz/eziz-test-vue/blob/main/src/assets/scr.jpg)](https://t.me/eziz1209)
+![Screenshots](https://github.com/webdeveziz/eziz-test-vue/blob/main/src/assets/scr2.jpg)
